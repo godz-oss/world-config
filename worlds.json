@@ -1,0 +1,10 @@
+{
+  "worlds": [
+    {
+      "enabled": false,
+      "worldId": "",
+      "message": "출시 예정",
+      "key": "drink02"
+    }
+  ]
+}
