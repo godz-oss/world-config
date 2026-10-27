@@ -1,10 +1,94 @@
 {
   "worlds": [
     {
+      "key": "drink01",
+      "worldId": "com.zzang.drink01",
+      "enabled": true,
+      "message": ""
+    },
+    {
+      "key": "drink02",
+      "worldId": "com.zzang.drink02",
+      "enabled": true,
+      "message": ""
+    },
+    {
+      "key": "drink03",
+      "worldId": "com.zzang.drink03",
+      "enabled": true,
+      "message": ""
+    },
+    {
+      "key": "drink04",
+      "worldId": "com.zzang.drink04",
       "enabled": false,
-      "worldId": "",
-      "message": "출시 예정",
-      "key": "drink02"
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink05",
+      "worldId": "com.zzang.drink05",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink06",
+      "worldId": "com.zzang.drink06",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink07",
+      "worldId": "com.zzang.drink07",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink08",
+      "worldId": "com.zzang.drink08",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink09",
+      "worldId": "com.zzang.drink09",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink10",
+      "worldId": "com.zzang.drink10",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink11",
+      "worldId": "com.zzang.drink11",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink12",
+      "worldId": "com.zzang.drink12",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink13",
+      "worldId": "com.zzang.drink13",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink14",
+      "worldId": "com.zzang.drink14",
+      "enabled": false,
+      "message": "출시 예정"
+    },
+    {
+      "key": "drink15",
+      "worldId": "com.zzang.drink15",
+      "enabled": false,
+      "message": "출시 예정"
     }
   ]
 }
